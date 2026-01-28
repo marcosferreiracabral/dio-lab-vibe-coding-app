@@ -225,10 +225,8 @@ Antes de construir o app completo:
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Frontend**: [Adicione a stack que usou]
+- **Frontend**: Lovable
 - **IA/NLP**: GPT/Claude via Copilot/Lovable
-- **Backend**: [Se aplicável]
-- **Banco de Dados**: [Se aplicável]
 - **Ferramentas de Desenvolvimento**: VS Code, Copilot, Lovable
 
 ---
